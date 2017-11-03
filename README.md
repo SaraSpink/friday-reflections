@@ -21,3 +21,6 @@
 [Start a trello board](https://trello.com/guide/board-basics.html)
 
 [Yes, you should learn Vanilla JavaScript before using JS frameworks](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks)
+
+#### today I:
+    - started a medium account

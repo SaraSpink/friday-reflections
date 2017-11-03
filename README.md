@@ -3,6 +3,16 @@
 #### By Sara Spink
 *************
 
+###### Hello World!
+Coding bootcamp has been a challenging journey for me. I came in feeling enthusiastic about code. Every time something rendered correctly in a browser or accepted user input I felt a wave of excitement. I made that! I defined a variable! IT WORKS AND I UNDERSTAND WHY! It's a wonderful feeling I hope most of us have had a chance to experience at the start of our coding journey.
+
+About two months into Epicodus's full-time web development bootcamp (Ruby/JavaScript/Rails) I crashed _hard_ into a wall of self-doubt and existential anxiety.
+
+_Rationally I know that:_
+- Not being at the same level as the top students in my class does not mean I will never get a job
+- If I do not fully understand a concept today I will eventually understand it with continued study (learning is actually fun, after all!)
+- Learning something new does not mean I have given up on my previous career and the creative work I have done up to this point.
+. When I reflect on my experience thusfar
 #### areas I want to improve:
 - Coding syntax
 - Confidence

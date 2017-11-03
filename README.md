@@ -11,9 +11,9 @@ About two months into Epicodus's full-time web development bootcamp (Ruby/JavaSc
 _Rationally I know that:_
 - Not being at the same level as the top students in my class does not mean I will never get a job
 - If I do not fully understand a concept today I will eventually understand it with continued study
-- Learning something new in a different field does not mean I have given up on my previous career and the creative work I have done up to this point
+- Learning something new does not mean I have _given up_ on the creative work I have done up to this point
 
-When I reflect on my experience thus far I can identify a great deal of progress. I came into Epicodus with very little knowledge of web development. Suddenly I can look at a page of code and begin to understand what's going on there. I can recognize different languages. I can work on a project and figure out what to do next. If I _don't_ know what to do next, I know how to seek and use resources to find the information I need.
+When I reflect on my experience thus far I can identify a great deal of progress. I came into Epicodus with very little knowledge of web development. Suddenly I can look at a page of code and understand what's going on there. I can recognize different languages. I create projects in basic Ruby, JavaScript, Angular, HTML, and CSS. If I _don't_ know what to do next, I know how to seek and use resources to find the information I need.
 
 ### A Day in the Life
 I wanted to spend today focusing on forward momentum. What are my next steps in the Epicodus program? How about afterwards? Rather than being anxious about the future, what things need to be in place for me to meet my goals (and by the way, what are my goals?)
@@ -49,3 +49,13 @@ I signed up for a [Medium account](https://medium.com/@spinkbot) but wound up wr
 I gathered my ideas on paper because, let's be honest, that's how I roll:
 
   ![My notes](notes.jpg)
+
+*******
+
+I really wanted to complete a treehouse project I started last week to build a photoblog in Angular2. It took a little while to get this up and running at home but right away I noticed how easily I was able to get up to speed on a brand new text editor (Visual Studio Code), and how easily I could follow along, thanks to everything I have been learning at Epicodus. I like using these two curriculums side by side as one often fills in the gaps in the other for me.
+
+I grabbed some ginger tea and got to work!
+
+  ![Workspace](workspace.jpg)
+
+Check out my progress [here](https://github.com/SaraSpink/photothing).

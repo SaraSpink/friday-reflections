@@ -10,27 +10,38 @@ About two months into Epicodus's full-time web development bootcamp (Ruby/JavaSc
 
 _Rationally I know that:_
 - Not being at the same level as the top students in my class does not mean I will never get a job
-- If I do not fully understand a concept today I will eventually understand it with continued study (learning is actually fun, after all!)
-- Learning something new does not mean I have given up on my previous career and the creative work I have done up to this point.
-. When I reflect on my experience thusfar
-#### areas I want to improve:
-- Coding syntax
-- Confidence
-- Ability to articulate myself about specific concepts
+- If I do not fully understand a concept today I will eventually understand it with continued study
+- Learning something new in a different field does not mean I have given up on my previous career and the creative work I have done up to this point
 
-#### priorities:
-- Clarify my direction
-- I want to learn:
-  - react
-  - sass
-  - python
+When I reflect on my experience thus far I can identify a great deal of progress. I came into Epicodus with very little knowledge of web development. Suddenly I can look at a page of code and begin to understand what's going on there. I can recognize different languages. I can work on a project and figure out what to do next. If I don't know what to do next, I know how to seek and use resources to find the information I need.
 
-#### articles:
-[I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
+###### A Day in the Life
+I wanted to spend today focusing on forward momentum. What are my next steps in the Epicodus program? How about afterwards? Rather than being anxious about the future, what things need to be in place for me to meet my goals (and by the way, what are my goals?)
 
-[Start a trello board](https://trello.com/guide/board-basics.html)
+###### areas I want to improve:
+    - Coding syntax / understanding of core concepts
+    - Ability to articulate myself about my code
+    - Patience (with the process and with myself)
+    - Focus
 
-[Yes, you should learn Vanilla JavaScript before using JS frameworks](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks)
+###### priorities:
+    - Clarify my direction. What do I want to do with this knowledge?
+    - Figure out what I want to build
+    - Figure out what tools/skills I will need
 
-#### today I:
-    - started a medium account
+**********
+
+I started the morning by reading some articles:
+
+A good (but slightly intimidating) one: [About applying to jobs after attending a coding Bootcamp](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331)
+
+Thinking about having a good foundation with basic concepts: [Yes, you should learn Vanilla JavaScript before using JS frameworks](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks)
+
+**********
+
+I signed up for a [Medium account](https://medium.com/@spinkbot) but wound up writing this readme instead. Once I organize my thoughts a little more I would like to begin writing some blog posts there.
+
+********
+I gathered my ideas on paper because, let's be honest, that's how I roll:
+
+  ![My notes](notes.jpg)

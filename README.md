@@ -62,10 +62,10 @@ If you want to dig into the code a little bit, check out my progress [here on gi
 
 There's not a lot to show yet but this is what things look like in Visual Studio Code:
 
-  ![vsc](Screen Shot 2017-11-03 at 4.53.44 PM.png)
+  ![vsc](grab-vsc.png)
 
 and in the browser:
 
-  ![browser](Screen Shot 2017-11-03 at 4.52.39 PM.png)
+  ![browser](grab-browser.png)
 
-I will update this repo with a link when the project is completed. 
+I will update this repo with a link when the project is completed.
